@@ -1,10 +1,10 @@
 [
   {
-    "package": "rMVP",
+    "package": "simer",
     "oncran": true
   },
   {
-    "package": "simer",
+    "package": "rMVP",
     "oncran": true
   }
 ]

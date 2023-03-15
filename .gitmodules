@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "rMVP"]
-	path = rMVP
-	url = https://github.com/xiaolei-lab/rmvp
-	shallow = true
-	registered = true
 [submodule "simer"]
 	path = simer
 	url = https://github.com/xiaolei-lab/simer
+	shallow = true
+	registered = true
+[submodule "rMVP"]
+	path = rMVP
+	url = https://github.com/xiaolei-lab/rmvp
 	shallow = true
 	registered = true
